@@ -1,0 +1,2 @@
+rootProject.name='RepositoryTest_B'
+include ':app'
